@@ -33,6 +33,7 @@ Solution digitale pour la gestion des bien immobiliers. Les trois interfaces de 
 - Typescript all over
 - Firebase as backend database
 - Firebase hosting
+- NG-Zorro UI
 
 > <span style="color:blue">Approach 2: No mandatory Framework </span>
 

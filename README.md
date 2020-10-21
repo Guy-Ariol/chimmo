@@ -6,7 +6,7 @@
 
 Solution digitale pour la gestion des bien immobiliers. Les trois interfaces de bases sont:
 
-- **Interface Admin**
+- **Interface Admin (Cahotech) **
   - Ouvrir un nouveau dossier bailleur
   - Enregistrer un immeuble
   - Enregistrer des logements

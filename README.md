@@ -13,7 +13,7 @@ Solution digitale pour la gestion des bien immobiliers. Les trois interfaces de 
   - Produire des factures
   - Encaissement / decaissement
   - Traiter les incidents (réparation, requette, etc...)
-<br>
+
 - **Interface bailleur**
   - Voir mes immeubles
   - voir mes logements
@@ -21,7 +21,7 @@ Solution digitale pour la gestion des bien immobiliers. Les trois interfaces de 
   - Voir mes locataires
   - Créer un incident (réparation, requette, etc...)
   - Voir transactions financières
-<br>
+
 - **Interface locataire**
   - Voir mes factures
   - Voir transactions financières

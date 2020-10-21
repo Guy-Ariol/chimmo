@@ -9,12 +9,34 @@ import { NZ_I18N } from 'ng-zorro-antd/i18n';
 import { fr_FR } from 'ng-zorro-antd/i18n';
 import { registerLocaleData } from '@angular/common';
 import fr from '@angular/common/locales/fr';
+import { AdminFormsComponent } from './components/admin-forms/admin-forms.component';
+import { AdminGenericListingComponent } from './components/admin-generic-listing/admin-generic-listing.component';
+import { BillComponent } from './components/bill/bill.component';
+import { CashboxComponent } from './components/cashbox/cashbox.component';
+import { DocComponent } from './components/doc/doc.component';
+import { HeaderComponent } from './components/header/header.component';
+import { AdminComponent } from './pages/admin/admin.component';
+import { HomeComponent } from './pages/home/home.component';
+import { LanlordComponent } from './pages/lanlord/lanlord.component';
+import { ReleaseComponent } from './pages/release/release.component';
+import { RenterComponent } from './pages/renter/renter.component';
 
 registerLocaleData(fr);
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AdminFormsComponent,
+    AdminGenericListingComponent,
+    BillComponent,
+    CashboxComponent,
+    DocComponent,
+    HeaderComponent,
+    AdminComponent,
+    HomeComponent,
+    LanlordComponent,
+    ReleaseComponent,
+    RenterComponent
   ],
   imports: [
     BrowserModule,
